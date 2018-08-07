@@ -1,0 +1,1 @@
+100 data science projects to challenge myself featuring: machine learning, feature engineering, numpy, scipy, visualization libraries, text tranformation, mathmatical formulation of models and other projects of all kinds in the field of machine learning. This has been done as part of a growth strategy
